@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Self-Referential Aptitude Test</title>
 </head>
 <body>
 <font color=000000>
